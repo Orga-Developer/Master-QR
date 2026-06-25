@@ -1,0 +1,3 @@
+# Privacy Notice for Consent Flows
+
+When the user is shown a consent screen, the associated privacy notice must be concise, intelligible, and materially complete. The notice should explain which categories of data may be processed, which partners are involved, and what the user gains or loses by choosing consent or refusal. For Master QR, the consent flow may relate to advertising personalization, analytics, or other optional integrations rather than the core QR functions. The notice should therefore separate essential operation from optional monetization or telemetry. It should also make clear where the user can revise the decision later, how consent state is stored, and whether a refusal changes only the advertising experience or the operation of the app itself.

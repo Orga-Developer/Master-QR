@@ -1,0 +1,20 @@
+{
+  "app_name": "Master QR",
+  "package_name": "com.qrcodereader.app",
+  "phase": 4,
+  "document_count": 40,
+  "range": {
+    "start": 121,
+    "end": 160
+  },
+  "focus": [
+    "architecture",
+    "sdk governance",
+    "qr safety",
+    "local storage",
+    "regional compliance",
+    "build security",
+    "testing",
+    "legal clauses"
+  ]
+}

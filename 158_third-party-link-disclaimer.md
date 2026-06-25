@@ -1,0 +1,3 @@
+# Third-Party Link Disclaimer
+
+The application may surface external links through scanned QR codes, support pages, privacy resources, or partner references. This disclaimer clarifies that once the user leaves Master QR and enters a third-party environment, control over content, privacy, and security shifts away from the app developer. The application should not imply endorsement of external destinations merely because it can display them. Users should be warned that third-party websites can change their terms, tracking practices, or security posture at any time. This disclaimer is important for legal accuracy because it helps separate the developer’s responsibilities from the independent actions of external site operators and content providers.

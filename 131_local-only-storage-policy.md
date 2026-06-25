@@ -1,0 +1,3 @@
+# Local-Only Storage Policy
+
+The default design of Master QR favors local-only persistence for scan history and related user context. Data stored in the Room database should remain on-device unless the user clearly invokes a share, export, backup, or synchronization feature. Local-only storage is a privacy-preserving design choice that reduces compliance burden and lowers the risk of data exposure in transit. This policy requires that local storage be described accurately in privacy notices and data-safety submissions, including whether any identifiers, timestamps, or scan content are persisted. If cloud backup is introduced later, the legal and technical documentation must be updated to reflect the change, including retention, encryption, and user deletion pathways.

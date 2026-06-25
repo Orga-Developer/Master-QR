@@ -1,0 +1,247 @@
+{
+  "app_name": "Master QR",
+  "package_name": "com.qrcodereader.app",
+  "document_count": 40,
+  "documents": [
+    {
+      "num": 1,
+      "title": "Property Policy",
+      "filename": "01_property-policy.md",
+      "words": 243
+    },
+    {
+      "num": 2,
+      "title": "Trademark Policy",
+      "filename": "02_trademark-policy.md",
+      "words": 227
+    },
+    {
+      "num": 3,
+      "title": "Copyright Policy",
+      "filename": "03_copyright-policy.md",
+      "words": 215
+    },
+    {
+      "num": 4,
+      "title": "Open Source Software Policy",
+      "filename": "04_open-source-software-policy.md",
+      "words": 236
+    },
+    {
+      "num": 5,
+      "title": "Open Source Attribution Notice",
+      "filename": "05_open-source-attribution-notice.md",
+      "words": 222
+    },
+    {
+      "num": 6,
+      "title": "Third-Party License Notice",
+      "filename": "06_third-party-license-notice.md",
+      "words": 219
+    },
+    {
+      "num": 7,
+      "title": "App Disclosure",
+      "filename": "07_app-disclosure.md",
+      "words": 225
+    },
+    {
+      "num": 8,
+      "title": "Privacy Policy",
+      "filename": "08_privacy-policy.md",
+      "words": 251
+    },
+    {
+      "num": 9,
+      "title": "Terms of Service",
+      "filename": "09_terms-of-service.md",
+      "words": 231
+    },
+    {
+      "num": 10,
+      "title": "Data Safety and App Store Disclosure",
+      "filename": "10_data-safety-and-app-store-disclosure.md",
+      "words": 239
+    },
+    {
+      "num": 11,
+      "title": "Permissions Usage and Sensitive Permissions Disclosure",
+      "filename": "11_permissions-usage-and-sensitive-permissions-disclosure.md",
+      "words": 222
+    },
+    {
+      "num": 12,
+      "title": "Third-Party Services and SDK Disclosure",
+      "filename": "12_third-party-services-and-sdk-disclosure.md",
+      "words": 224
+    },
+    {
+      "num": 13,
+      "title": "Analytics and Tracking Disclosure",
+      "filename": "13_analytics-and-tracking-disclosure.md",
+      "words": 236
+    },
+    {
+      "num": 14,
+      "title": "Advertising, Personalized Advertising, and Monetization Notice",
+      "filename": "14_advertising-personalized-advertising-and-monetization-notice.md",
+      "words": 349
+    },
+    {
+      "num": 15,
+      "title": "Cookie and Local Storage Policy",
+      "filename": "15_cookie-and-local-storage-policy.md",
+      "words": 234
+    },
+    {
+      "num": 16,
+      "title": "Consent Flow and Proof Policy",
+      "filename": "16_consent-flow-and-proof-policy.md",
+      "words": 232
+    },
+    {
+      "num": 17,
+      "title": "Refund and Cancellation Terms",
+      "filename": "17_refund-and-cancellation-terms.md",
+      "words": 228
+    },
+    {
+      "num": 18,
+      "title": "Account Management and Deletion Policy",
+      "filename": "18_account-management-and-deletion-policy.md",
+      "words": 219
+    },
+    {
+      "num": 19,
+      "title": "Suspension and Appeals Policy",
+      "filename": "19_suspension-and-appeals-policy.md",
+      "words": 214
+    },
+    {
+      "num": 20,
+      "title": "Support and Complaints Policy",
+      "filename": "20_support-and-complaints-policy.md",
+      "words": 216
+    },
+    {
+      "num": 21,
+      "title": "Security Policy",
+      "filename": "21_security-policy.md",
+      "words": 220
+    },
+    {
+      "num": 22,
+      "title": "Secure Development Policy",
+      "filename": "22_secure-development-policy.md",
+      "words": 223
+    },
+    {
+      "num": 23,
+      "title": "Vulnerability Disclosure Policy",
+      "filename": "23_vulnerability-disclosure-policy.md",
+      "words": 225
+    },
+    {
+      "num": 24,
+      "title": "Responsible Disclosure Policy",
+      "filename": "24_responsible-disclosure-policy.md",
+      "words": 217
+    },
+    {
+      "num": 25,
+      "title": "Penetration Testing Policy",
+      "filename": "25_penetration-testing-policy.md",
+      "words": 220
+    },
+    {
+      "num": 26,
+      "title": "Encryption and Key Management Policy",
+      "filename": "26_encryption-and-key-management-policy.md",
+      "words": 219
+    },
+    {
+      "num": 27,
+      "title": "Access Control, Authentication, and Authorization Policy",
+      "filename": "27_access-control-authentication-and-authorization-policy.md",
+      "words": 212
+    },
+    {
+      "num": 28,
+      "title": "Logging and Monitoring Policy",
+      "filename": "28_logging-and-monitoring-policy.md",
+      "words": 212
+    },
+    {
+      "num": 29,
+      "title": "Backup Policy",
+      "filename": "29_backup-policy.md",
+      "words": 204
+    },
+    {
+      "num": 30,
+      "title": "Disaster Recovery Policy",
+      "filename": "30_disaster-recovery-policy.md",
+      "words": 212
+    },
+    {
+      "num": 31,
+      "title": "Business Continuity Policy",
+      "filename": "31_business-continuity-policy.md",
+      "words": 204
+    },
+    {
+      "num": 32,
+      "title": "Incident Response and Data Breach Response Plan",
+      "filename": "32_incident-response-and-data-breach-response-plan.md",
+      "words": 208
+    },
+    {
+      "num": 33,
+      "title": "Data Governance and Classification Policy",
+      "filename": "33_data-governance-and-classification-policy.md",
+      "words": 210
+    },
+    {
+      "num": 34,
+      "title": "Data Retention and Archiving Policy",
+      "filename": "34_data-retention-and-archiving-policy.md",
+      "words": 238
+    },
+    {
+      "num": 35,
+      "title": "Data Deletion and Minimization Policy",
+      "filename": "35_data-deletion-and-minimization-policy.md",
+      "words": 227
+    },
+    {
+      "num": 36,
+      "title": "Data Accuracy Policy",
+      "filename": "36_data-accuracy-policy.md",
+      "words": 217
+    },
+    {
+      "num": 37,
+      "title": "International Data Transfer and Data Residency Notice",
+      "filename": "37_international-data-transfer-and-data-residency-notice.md",
+      "words": 231
+    },
+    {
+      "num": 38,
+      "title": "User Rights and Data Subject Access Request Procedure",
+      "filename": "38_user-rights-and-data-subject-access-request-procedure.md",
+      "words": 245
+    },
+    {
+      "num": 39,
+      "title": "Google Play and Huawei AppGallery Compliance Statement",
+      "filename": "39_google-play-and-huawei-appgallery-compliance-statement.md",
+      "words": 216
+    },
+    {
+      "num": 40,
+      "title": "Platform Submission Readiness and Region Compatibility Report",
+      "filename": "40_platform-submission-readiness-and-region-compatibility-report.md",
+      "words": 212
+    }
+  ]
+}

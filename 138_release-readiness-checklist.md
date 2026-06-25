@@ -1,0 +1,3 @@
+# Release Readiness Checklist
+
+Release readiness is the final control gate before a build is promoted to production. For Master QR, the checklist should verify that permissions are justified, legal pages are synchronized with the codebase, ad identifiers are configured correctly, consent paths are functional, and store metadata matches the shipped binary. The release review should also confirm that no placeholder secrets, dummy endpoints, or accidental debug behaviors remain active. Any mismatch between the deployed app and its disclosures can create compliance risk, rejection risk, or user trust loss. This document establishes that legal, product, and engineering approvals are all required before a release candidate may be signed and distributed to any public channel.

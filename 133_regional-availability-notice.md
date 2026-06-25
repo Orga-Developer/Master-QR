@@ -1,0 +1,3 @@
+# Regional Availability Notice
+
+This application may be distributed across multiple storefronts and regions, and that distribution model creates important differences in law, language, and platform policy. Master QR must therefore disclose that availability, feature set, consent prompts, monetization behavior, and data rights flows can vary by jurisdiction. A user in one region may see a different consent interface or legal footer from a user in another, especially when local privacy, advertising, or age-related rules differ. The notice should explain that some services may be disabled in restricted markets and that the developer may decline distribution where compliance cannot be assured. This keeps the app transparent while allowing a flexible global release strategy.
